@@ -5,7 +5,7 @@
   "version": "0.4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/holidayextras/wsdl2.js.git"
+    "url": "https://github.com/shiak1/wsdl2.js.git"
   },
   "scripts": {
     "test": "node tests/test && echo ✔"
